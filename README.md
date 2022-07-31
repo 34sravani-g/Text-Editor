@@ -1,5 +1,4 @@
 # Text-Editor
-# Text-Editor
 It contains a text editor just like notepad with some additional feature like
   1. Alignment functionality
   2. Change Font size ,color,style 
